@@ -1,0 +1,6 @@
+E:\R&D\IISController\IISController\bin\IISController.dll.config
+E:\R&D\IISController\IISController\bin\IISController.dll
+E:\R&D\IISController\IISController\bin\IISController.pdb
+E:\R&D\IISController\IISController\obj\Debug\IISController.csprojResolveAssemblyReference.cache
+E:\R&D\IISController\IISController\obj\Debug\IISController.dll
+E:\R&D\IISController\IISController\obj\Debug\IISController.pdb
