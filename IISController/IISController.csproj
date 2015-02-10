@@ -70,6 +70,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="IISManager.aspx.cs">
       <DependentUpon>IISManager.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
